@@ -1,3 +1,7 @@
+=======
+# FrogmiTest
+Mobile challenge
+
 ● El Código debe estar hecho en Kotlin.
 ● Una UI simple que despliegue la información arriba descrita en cada celda.
 ● Layout de la app (code), organización de las clases, class naming, convenciones, etc.
@@ -7,3 +11,4 @@
 ejecutar las pruebas unitarias)
 
 La idea es que nos mande un link de github con el código, SIN SUBIR EL TOKEN y nos indiques dónde debemos colocar el token y para que funcione en local.
+
